@@ -1,0 +1,1 @@
+Folder to contain notebooks of 3 best performing models (LSTM, XGBoost, RF) to experiment with training run dropping sensor coverage on the network by 1/12th in each iteration to judge accuracy against sensor coverage in a network

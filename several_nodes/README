@@ -1,0 +1,1 @@
+Folder for the 3 best performing models (LSTM, RF, XGBoost) to run experiments around predictive capabilities at different points in the WDN training models to predict parameters at nodes at the beginning, middle and end of the WDN
