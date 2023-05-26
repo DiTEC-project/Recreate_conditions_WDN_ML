@@ -1,1 +1,2 @@
 Folder to contain notebooks of 3 best performing models (LSTM, XGBoost, RF) to experiment with training run dropping sensor coverage on the network by 1/12th in each iteration to judge accuracy against sensor coverage in a network
+Extended = additional training run to bring sensor coverage <10% and changed inverse scaler shape to match node feature shape
